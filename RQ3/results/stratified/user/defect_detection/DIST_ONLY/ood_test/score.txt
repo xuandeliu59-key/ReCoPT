@@ -1,0 +1,12 @@
+TN: 2002
+FP: 998
+FN: 574
+TP: 2426
+Accuracy: 0.7380
+FPR: 0.3327
+Precision_1: 0.7085
+Recall_1: 0.8087
+F1_1: 0.7553
+Precision_0: 0.7772
+Recall_0: 0.6673
+F1_0: 0.7181

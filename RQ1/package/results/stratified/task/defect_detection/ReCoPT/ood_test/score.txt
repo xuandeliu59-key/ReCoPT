@@ -1,0 +1,12 @@
+TN: 577
+FP: 2423
+FN: 339
+TP: 2661
+Accuracy: 0.5397
+FPR: 0.8077
+Precision_1: 0.5234
+Recall_1: 0.8870
+F1_1: 0.6583
+Precision_0: 0.6299
+Recall_0: 0.1923
+F1_0: 0.2947

@@ -1,0 +1,12 @@
+TN: 616
+FP: 2384
+FN: 450
+TP: 2550
+Accuracy: 0.5277
+FPR: 0.7947
+Precision_1: 0.5168
+Recall_1: 0.8500
+F1_1: 0.6428
+Precision_0: 0.5779
+Recall_0: 0.2053
+F1_0: 0.3030

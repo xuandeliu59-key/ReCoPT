@@ -1,0 +1,12 @@
+TN: 2366
+FP: 634
+FN: 979
+TP: 2021
+Accuracy: 0.7312
+FPR: 0.2113
+Precision_1: 0.7612
+Recall_1: 0.6737
+F1_1: 0.7148
+Precision_0: 0.7073
+Recall_0: 0.7887
+F1_0: 0.7458

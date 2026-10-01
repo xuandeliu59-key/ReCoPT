@@ -1,0 +1,44 @@
+{
+  "results": {
+    "Random-View": {
+      "sample_count": 2000,
+      "original_accuracy": 0.974,
+      "shifted_accuracy": 0.964,
+      "accuracy_drop": 0.010000000000000009,
+      "relative_accuracy_drop": 0.01026694045174539,
+      "flip_rate": 0.024,
+      "original_correct_shifted_wrong": 31,
+      "original_wrong_shifted_correct": 11
+    },
+    "LLM-View": {
+      "sample_count": 2000,
+      "original_accuracy": 0.974,
+      "shifted_accuracy": 0.9405,
+      "accuracy_drop": 0.033499999999999974,
+      "relative_accuracy_drop": 0.034394250513347,
+      "flip_rate": 0.0455,
+      "original_correct_shifted_wrong": 76,
+      "original_wrong_shifted_correct": 9
+    },
+    "ContraBERT-View": {
+      "sample_count": 2000,
+      "original_accuracy": 0.974,
+      "shifted_accuracy": 0.933,
+      "accuracy_drop": 0.040999999999999925,
+      "relative_accuracy_drop": 0.04209445585215598,
+      "flip_rate": 0.0445,
+      "original_correct_shifted_wrong": 84,
+      "original_wrong_shifted_correct": 2
+    },
+    "ReCoPT-View": {
+      "sample_count": 2000,
+      "original_accuracy": 0.974,
+      "shifted_accuracy": 0.887,
+      "accuracy_drop": 0.08699999999999997,
+      "relative_accuracy_drop": 0.08932238193018477,
+      "flip_rate": 0.1055,
+      "original_correct_shifted_wrong": 185,
+      "original_wrong_shifted_correct": 11
+    }
+  }
+}

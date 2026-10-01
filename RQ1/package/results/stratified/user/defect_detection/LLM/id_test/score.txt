@@ -1,0 +1,12 @@
+TN: 2359
+FP: 641
+FN: 691
+TP: 2309
+Accuracy: 0.7780
+FPR: 0.2137
+Precision_1: 0.7827
+Recall_1: 0.7697
+F1_1: 0.7761
+Precision_0: 0.7734
+Recall_0: 0.7863
+F1_0: 0.7798

@@ -1,0 +1,7 @@
+Accuracy = 0.9227
+Macro_Precision = 0.9394
+Macro_Recall = 0.9227
+Macro_F1 = 0.9263
+Weighted_Precision = 0.9394
+Weighted_Recall = 0.9227
+Weighted_F1 = 0.9263
