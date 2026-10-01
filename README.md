@@ -15,7 +15,8 @@ This package contains the data, evaluation scripts, and results for the experime
 Due to GitHub's file-size limits, the model checkpoints are hosted separately at:
 
 ```text
-<MODEL_WEIGHTS_URL>
+[RQ1](https://pan.quark.cn/s/dbb3ac682f78)
+[RQ3](https://pan.quark.cn/s/d3ea6df65d74)
 ```
 
 Download and extract the model checkpoints before running the evaluation. Keep the extracted directory structure unchanged so that each checkpoint can be matched with its corresponding task, shift, and method.
